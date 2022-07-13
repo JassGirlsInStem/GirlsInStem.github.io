@@ -10,6 +10,13 @@
 		pointer-events: auto;
 		opacity: 1;
 	}
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: #FFFFFF;
+  font-size: 30px;
+}
 
 /* Header */
 
@@ -19,12 +26,6 @@
 		-ms-transform: none;
 		transform: none;
 	}
-/*header2idkwhatimdoingsendtherpy */
 
-.header {
-  padding: 60px;
-  text-align: center;
-  background: #1abc9c;
-  color: white;
-  font-size: 30px;
-}
+
+
